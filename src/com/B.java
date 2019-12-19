@@ -4,4 +4,7 @@ public class B {
 public static void main(String[] args) {
 	System.out.println("xixi");
 }
+public  void s(){
+	
+}
 }
